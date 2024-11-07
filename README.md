@@ -18,7 +18,7 @@
 ## 📖 introduction :
 
 - 💻 I'm samarajit mane.
-- 📱 I like to be in red team.
+- 📱 I'd like to be in red team.
 - 🤖 I am currently learning cybersecurity and cloud computing. 
 - 🌐 Adding soon.
 - 📫 How to reach me **iammomstealer@gmail.com**
