@@ -18,7 +18,6 @@
 ## 📖 introduction :
 
 - 💻 I'm samarajit mane.
-- 🎨 I'm also a YouTube Strategist.
 - 📱 I like to be in red team.
 - 🤖 I am currently learning cybersecurity and cloud computing. 
 - 🌐 Adding soon.
