@@ -1,5 +1,5 @@
 
-<a href="#"><img  align="center" width="auto" height="auto" src="https://media.licdn.com/dms/image/v2/D4E16AQFq5B9Qzdq0PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726220324582?e=1731542400&v=beta&t=OiocJmg3OdRsK26rdZF4EGe7VWWuqwIyVrATzsSww1U" size="auto"/></a>
+
 
 <h1 align = "center"> HELLO THERE </h2>
 <h3 align = "center"> I'm samarajit mane </h2>
