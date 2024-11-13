@@ -20,7 +20,7 @@
 - 💻 I'm samarajit mane.
 - 📱 I'd like to be in red team.
 - 🤖 I am currently learning cybersecurity and cloud computing. 
-- 🌐 samarajit.vercel.app
+- 🌐 https://samarajit.vercel.app
 - 📫 How to reach me **iammomstealer@gmail.com**
 - 🏆 my qualifications: https://www.credly.com/users/samarajit-mane
 ## 🔥 My contribution streak
