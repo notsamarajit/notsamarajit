@@ -21,7 +21,7 @@
 - 📱 I'd like to be in red team.
 - 🤖 I am currently learning cybersecurity and cloud computing. 
 - 🌐 https://samarajit.vercel.app
-- 📫 How to reach me **iammomstealer@gmail.com**
+- 📫 How to reach me **ktechnologyts@gmail.com**
 - 🏆 my qualifications: https://www.credly.com/users/samarajit-mane
 ## 🔥 My contribution streak
 
