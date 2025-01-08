@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://github.com/notsamarajit"><img alt="samar's followers" title="Follow me on Github" src="https://img.shields.io/github/followers/notsamarajit?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notsamarajit&label=Profile%20views&color=0e75b6&style=flat" alt="samarmane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamomstealer&label=Profile%20views&color=0e75b6&style=flat" alt="samarmane" /> </p>
 <p align="left"> <a href="https://twitter.com/jupiter_des" target="blank"><img src="https://img.shields.io/twitter/follow/jupiter_des?logo=twitter&style=for-the-badge" alt="jupiter_des" /></a> </p>
 </p>
 
