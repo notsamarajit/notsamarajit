@@ -18,11 +18,11 @@
 ## 📖 introduction :
 
 - 💻 I'm samarajit mane.
-- 📱 I'd like to be in red team.
 - 🤖 I am currently learning cybersecurity and cloud computing. 
 - 🌐 https://samarajit.vercel.app
 - 📫 How to reach me **ktechnologyts@gmail.com**
 - 🏆 my qualifications: https://www.credly.com/users/samarajit-mane
+- 📱 my accomplishments: [labs & certs](https://github.com/notsamarajit/malware-analysis-labs/blob/main/accomplishments/fakegpt.md)
 ## 🔥 My contribution streak
 
 <p align="center">
