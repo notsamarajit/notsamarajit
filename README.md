@@ -23,7 +23,11 @@
 - 📫 How to reach me **ktechnologyts@gmail.com**
 - 🏆 my qualifications: https://www.credly.com/users/samarajit-mane
 - 📱 my accomplishments: [labs & certs]()
-- <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/notsamarajit.png" width="300" />
+
+## defending profile :
+ <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/notsamarajit.png" width="500" />
+
+
 ## 🔥 My contribution streak
 
 <p align="center">
