@@ -1,4 +1,4 @@
-<script src="https://cyberdefenders.org/p/notsamarajit/badge"></script>
+
 
 
 <h1 align = "center"> HELLO THERE </h2>
@@ -22,7 +22,8 @@
 - 🌐 https://samarajit.vercel.app
 - 📫 How to reach me **ktechnologyts@gmail.com**
 - 🏆 my qualifications: https://www.credly.com/users/samarajit-mane
-- 📱 my accomplishments: [labs & certs](https://github.com/notsamarajit/malware-analysis-labs/blob/main/accomplishments/fakegpt.md)
+- 📱 my accomplishments: [labs & certs]()
+- <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/notsamarajit.png" width="300" />
 ## 🔥 My contribution streak
 
 <p align="center">
