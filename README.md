@@ -25,7 +25,7 @@
 - 📱 my accomplishments: [labs & certs]()
 
 ## defending profile :
- <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/notsamarajit.png" width="500" />
+ <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/notsamarajit.png" width="300" />
 
 
 ## 🔥 My contribution streak
