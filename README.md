@@ -1,7 +1,7 @@
 
 
 
-<h1 align = "center"> HELLO THERE </h2>
+<h1 align = "center"> HELLO HERE </h2>
 <h3 align = "center"> I'm samarajit mane </h2>
 <p align="center">
 <a href="https://github.com/notsamarajit"><img alt="samar's followers" title="Follow me on Github" src="https://img.shields.io/github/followers/notsamarajit?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
