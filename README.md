@@ -125,7 +125,7 @@ A secure, isolated environment for analyzing malicious software and understandin
   <img src="https://raw.githubusercontent.com/samarajit01/samarajit01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Note: The snake animation will work after the GitHub Action runs. The workflow file has been created in .github/workflows/snake.yml -->
+<!-- Note: The snake animation will work after the GitHub Action runs. The workflow file has been created in .github/workflows/snake.yml 
 
 ---
 -->
