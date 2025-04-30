@@ -38,6 +38,9 @@ Cybersecurity enthusiast with a passion for digital forensics, threat hunting, a
   <a href="https://www.credly.com/users/samarajit-mane" target="_blank">
     <img src="https://img.shields.io/badge/View_My_Verified_Credentials-4285F4?style=for-the-badge" alt="Verified Credentials" />
   </a>
+  <a href="https://learn.microsoft.com/en-in/users/samarajitmane/transcript/vj2weuzkkg0elwy?redeem=V96M79%3Fwt.mc_id%3Daiskillsfest_badge_general_wwl&tab=tab-other" target="_blank">
+    <img src="https://img.shields.io/badge/-Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&logoWidth=40" alt="Microsoft Certifications" />
+  </a>
 </div>
 
 ## 🛡️ Defending Profile
@@ -120,15 +123,15 @@ A curated collection of cybersecurity learning resources, labs, and practice env
 A secure, isolated environment for analyzing malicious software and understanding attack vectors.
 
 ---
-<!--
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/samarajit01/samarajit01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Note: The snake animation will work after the GitHub Action runs. The workflow file has been created in .github/workflows/snake.yml 
+<!-- Note: The snake animation will work after the GitHub Action runs. The workflow file has been created in .github/workflows/snake.yml -->
 
 ---
--->
+
 <div align="center">
   <h3>🔒 "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." 🔒</h3>
 </div>
