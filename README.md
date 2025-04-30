@@ -120,7 +120,7 @@ A curated collection of cybersecurity learning resources, labs, and practice env
 A secure, isolated environment for analyzing malicious software and understanding attack vectors.
 
 ---
-
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/samarajit01/samarajit01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -128,7 +128,7 @@ A secure, isolated environment for analyzing malicious software and understandin
 <!-- Note: The snake animation will work after the GitHub Action runs. The workflow file has been created in .github/workflows/snake.yml -->
 
 ---
-
+-->
 <div align="center">
   <h3>🔒 "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." 🔒</h3>
 </div>
