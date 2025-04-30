@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <circle cx="50" cy="50" r="48" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  
+  <!-- Project Folder Icon -->
+  <path d="M25 30 H45 L50 35 H75 V70 H25 Z" fill="none" stroke="#58a6ff" stroke-width="2"/>
+  
+  <!-- Code Lines -->
+  <line x1="35" y1="45" x2="65" y2="45" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="35" y1="50" x2="60" y2="50" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="35" y1="55" x2="55" y2="55" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="35" y1="60" x2="65" y2="60" stroke="#58a6ff" stroke-width="1.5"/>
+</svg>
