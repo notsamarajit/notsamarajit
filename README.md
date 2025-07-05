@@ -46,7 +46,7 @@ Cybersecurity enthusiast with a passion for digital forensics, threat hunting, a
 ## 🛡️ Defending Profile
 
 <div>
-  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/notsamarajit.png" width="300" />
+ <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/notsamarajit.png" width="300" />
     <img src="https://tryhackme-badges.s3.amazonaws.com/samarajit.png" alt="TryHackMe Badge" style="margin-left: 15px;" />
   </a>
 </div>
