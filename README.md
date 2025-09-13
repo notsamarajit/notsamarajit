@@ -8,7 +8,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/notsamarajit?style=social)](https://github.com/notsamarajit)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/samarajit01/)
-  [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?logo=google-cloud&logoColor=white)](your-certification-url)
+  [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?logo=google-cloud&logoColor=white)](https://g.dev/samarajit)
 
 </div>
 
